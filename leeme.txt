@@ -1,0 +1,16 @@
+https://github.com/spring-projects/spring-petclinic
+
+Lanzar el programa:
+mvn spring-boot:run
+
+Limpiar:
+mvn clean
+
+Ver el API swagger:
+http://localhost:8080/swagger-ui/
+
+Ver el frontend:
+http://localhost:8080
+
+Ver base de datos H2:
+http://localhost:8080/h2-console
